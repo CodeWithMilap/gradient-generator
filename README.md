@@ -18,9 +18,9 @@ CSS Gradient Generator is a web application built with Next.js, allowing designe
 
 **Install Dependencies:**
     
-    ```bash
+```bash
     npm install
-    ```
+```
 
 **Run the Application:**
 
