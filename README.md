@@ -14,13 +14,14 @@ CSS Gradient Generator is a web application built with Next.js, allowing designe
    ```bash
    git clone https://github.com/your-username/css-gradient-generator-nextjs.git
    cd css-gradient-generator-nextjs
+```
 
-Install Dependencies:
-
+**Install Dependencies:**
     ```bash
     npm install
+    ```
 
-First, run the development server:
+**Run the Application:**
 
 ```bash
 npm run dev
