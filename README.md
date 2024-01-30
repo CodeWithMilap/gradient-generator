@@ -37,10 +37,10 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to use the CSS Gradient Generator.
 
 ## Usage
-    -Choose gradient type (linear/radial).
-    -Adjust gradient direction or angle.
-    -Add and customize color points.
-    -Copy the generated CSS code and use it in your projects.
+- Choose gradient type (linear/radial).
+- Adjust gradient direction or angle.
+- Add and customize color points.
+- Copy the generated CSS code and use it in your projects.
 
 ## Contributing
 
