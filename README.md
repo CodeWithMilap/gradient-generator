@@ -12,8 +12,8 @@ CSS Gradient Generator is a web application built with Next.js, allowing designe
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/css-gradient-generator-nextjs.git
-   cd css-gradient-generator-nextjs
+   git clone https://github.com/CodeWithMilap/gradient-generator.git
+   cd gradient-generator
 ```
 
 **Install Dependencies:**
